@@ -38,7 +38,7 @@ A Python-based desktop application that allows you to manage files and folders u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/voice-file-manager.git
+   git clone https://github.com/SelvaUx/voice-file-manager.git
    cd voice-file-manager
    ```
 
@@ -266,4 +266,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you found it helpful!**
 
-📧 **Questions?** Open an issue or contact [your-email@example.com](mailto:your-email@example.com)
+📧 **Questions?** Open an issue or contact [selva.ux@yahoo.com](mailto:selva.ux@yahoo.com)
